@@ -1,1 +1,1 @@
-# Simple-Expense-Tracker
+A simple expense tracker application.
